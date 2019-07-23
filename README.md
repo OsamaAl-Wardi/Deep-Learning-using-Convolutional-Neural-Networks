@@ -1,4 +1,4 @@
-# Deep-Learning-with-Convolutional-Neural-Networks
+# Solving a Classification Problem using Convolutional Neural Networks
 
 ## What is this?
 This is an implementation of a Convolutional Neural Network using Tensorflow. The purpose of the network is to classifiy pictures of dogs vs pictures of cats. The network has 6 convolution layers with two fully connected layers. The accuracy is 
