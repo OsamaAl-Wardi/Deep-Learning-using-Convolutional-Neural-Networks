@@ -16,5 +16,5 @@ https://drive.google.com/drive/folders/1S8fg-YhyrhX_LCFFhAw6GQkrjqWoWRBm?usp=sha
 
 ### Other
 
-* You need to tweak the code and change the macros on to your desigred paths and
+* You need to tweak the code and change the macros to your desigred paths and
 name the cnn model file how you want.
