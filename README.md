@@ -7,7 +7,7 @@ around 80%.
 ## What do I need to run this?
 
 * You need to download the training data from my google docs on 
-https://drive.google.com/open?id=1S8fgYhyrhX_LCFFhAw6GQkrjqWoWRBm
+https://drive.google.com/drive/folders/1S8fg-YhyrhX_LCFFhAw6GQkrjqWoWRBm?usp=sharing
 * Tensorflow
 * numpy
 * cv2
